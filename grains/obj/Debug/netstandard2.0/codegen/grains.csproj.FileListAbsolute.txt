@@ -1,0 +1,7 @@
+/Users/demoroom/Projects/orleans-test/grains/bin/Debug/netstandard2.0/grains.deps.json
+/Users/demoroom/Projects/orleans-test/grains/bin/Debug/netstandard2.0/grains.dll
+/Users/demoroom/Projects/orleans-test/grains/bin/Debug/netstandard2.0/grains.pdb
+/Users/demoroom/Projects/orleans-test/grains/bin/Debug/netstandard2.0/interfaces.dll
+/Users/demoroom/Projects/orleans-test/grains/bin/Debug/netstandard2.0/interfaces.pdb
+/Users/demoroom/Projects/orleans-test/grains/obj/Debug/netstandard2.0/codegen/grains.csproj.CoreCompileInputs.cache
+/Users/demoroom/Projects/orleans-test/grains/obj/Debug/netstandard2.0/codegen/grains.AssemblyInfoInputs.cache

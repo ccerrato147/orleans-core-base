@@ -1,0 +1,8 @@
+/Users/demoroom/Projects/orleans-test/interfaces/bin/Debug/netstandard2.0/interfaces.deps.json
+/Users/demoroom/Projects/orleans-test/interfaces/bin/Debug/netstandard2.0/interfaces.dll
+/Users/demoroom/Projects/orleans-test/interfaces/bin/Debug/netstandard2.0/interfaces.pdb
+/Users/demoroom/Projects/orleans-test/interfaces/obj/Debug/netstandard2.0/interfaces.csproj.CoreCompileInputs.cache
+/Users/demoroom/Projects/orleans-test/interfaces/obj/Debug/netstandard2.0/interfaces.AssemblyInfoInputs.cache
+/Users/demoroom/Projects/orleans-test/interfaces/obj/Debug/netstandard2.0/interfaces.AssemblyInfo.cs
+/Users/demoroom/Projects/orleans-test/interfaces/obj/Debug/netstandard2.0/interfaces.dll
+/Users/demoroom/Projects/orleans-test/interfaces/obj/Debug/netstandard2.0/interfaces.pdb

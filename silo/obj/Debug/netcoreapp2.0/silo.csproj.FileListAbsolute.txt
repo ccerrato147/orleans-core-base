@@ -1,0 +1,14 @@
+/Users/demoroom/Projects/orleans-test/silo/obj/Debug/netcoreapp2.0/silo.csproj.CoreCompileInputs.cache
+/Users/demoroom/Projects/orleans-test/silo/obj/Debug/netcoreapp2.0/silo.AssemblyInfoInputs.cache
+/Users/demoroom/Projects/orleans-test/silo/obj/Debug/netcoreapp2.0/silo.AssemblyInfo.cs
+/Users/demoroom/Projects/orleans-test/silo/bin/Debug/netcoreapp2.0/silo.deps.json
+/Users/demoroom/Projects/orleans-test/silo/bin/Debug/netcoreapp2.0/silo.runtimeconfig.json
+/Users/demoroom/Projects/orleans-test/silo/bin/Debug/netcoreapp2.0/silo.runtimeconfig.dev.json
+/Users/demoroom/Projects/orleans-test/silo/bin/Debug/netcoreapp2.0/silo.dll
+/Users/demoroom/Projects/orleans-test/silo/bin/Debug/netcoreapp2.0/silo.pdb
+/Users/demoroom/Projects/orleans-test/silo/bin/Debug/netcoreapp2.0/grains.dll
+/Users/demoroom/Projects/orleans-test/silo/bin/Debug/netcoreapp2.0/interfaces.dll
+/Users/demoroom/Projects/orleans-test/silo/bin/Debug/netcoreapp2.0/interfaces.pdb
+/Users/demoroom/Projects/orleans-test/silo/bin/Debug/netcoreapp2.0/grains.pdb
+/Users/demoroom/Projects/orleans-test/silo/obj/Debug/netcoreapp2.0/silo.dll
+/Users/demoroom/Projects/orleans-test/silo/obj/Debug/netcoreapp2.0/silo.pdb
