@@ -3334,17 +3334,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/demoroom/Projects/orleans-test/grains/grains.csproj",
+      "projectUniqueName": "/Users/demoroom/Projects/orleans-core-base/grains/grains.csproj",
       "projectName": "grains",
-      "projectPath": "/Users/demoroom/Projects/orleans-test/grains/grains.csproj",
+      "projectPath": "/Users/demoroom/Projects/orleans-core-base/grains/grains.csproj",
       "packagesPath": "/Users/demoroom/.nuget/packages/",
-      "outputPath": "/Users/demoroom/Projects/orleans-test/grains/obj/",
+      "outputPath": "/Users/demoroom/Projects/orleans-core-base/grains/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/demoroom/Projects/orleans-test/NuGet.Config",
+        "/Users/demoroom/Projects/orleans-core-base/NuGet.Config",
         "/Users/demoroom/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
@@ -3357,8 +3357,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/Users/demoroom/Projects/orleans-test/interfaces/interfaces.csproj": {
-              "projectPath": "/Users/demoroom/Projects/orleans-test/interfaces/interfaces.csproj"
+            "/Users/demoroom/Projects/orleans-core-base/interfaces/interfaces.csproj": {
+              "projectPath": "/Users/demoroom/Projects/orleans-core-base/interfaces/interfaces.csproj"
             }
           }
         }

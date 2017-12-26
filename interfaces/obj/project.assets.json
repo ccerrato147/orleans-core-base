@@ -3295,17 +3295,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/demoroom/Projects/orleans-test/interfaces/interfaces.csproj",
+      "projectUniqueName": "/Users/demoroom/Projects/orleans-core-base/interfaces/interfaces.csproj",
       "projectName": "interfaces",
-      "projectPath": "/Users/demoroom/Projects/orleans-test/interfaces/interfaces.csproj",
+      "projectPath": "/Users/demoroom/Projects/orleans-core-base/interfaces/interfaces.csproj",
       "packagesPath": "/Users/demoroom/.nuget/packages/",
-      "outputPath": "/Users/demoroom/Projects/orleans-test/interfaces/obj/",
+      "outputPath": "/Users/demoroom/Projects/orleans-core-base/interfaces/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/demoroom/Projects/orleans-test/NuGet.Config",
+        "/Users/demoroom/Projects/orleans-core-base/NuGet.Config",
         "/Users/demoroom/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [

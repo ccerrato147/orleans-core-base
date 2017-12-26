@@ -6367,17 +6367,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/demoroom/Projects/orleans-test/silo/silo.csproj",
+      "projectUniqueName": "/Users/demoroom/Projects/orleans-core-base/silo/silo.csproj",
       "projectName": "silo",
-      "projectPath": "/Users/demoroom/Projects/orleans-test/silo/silo.csproj",
+      "projectPath": "/Users/demoroom/Projects/orleans-core-base/silo/silo.csproj",
       "packagesPath": "/Users/demoroom/.nuget/packages/",
-      "outputPath": "/Users/demoroom/Projects/orleans-test/silo/obj/",
+      "outputPath": "/Users/demoroom/Projects/orleans-core-base/silo/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/demoroom/Projects/orleans-test/NuGet.Config",
+        "/Users/demoroom/Projects/orleans-core-base/NuGet.Config",
         "/Users/demoroom/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
@@ -6390,11 +6390,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/Users/demoroom/Projects/orleans-test/interfaces/interfaces.csproj": {
-              "projectPath": "/Users/demoroom/Projects/orleans-test/interfaces/interfaces.csproj"
+            "/Users/demoroom/Projects/orleans-core-base/interfaces/interfaces.csproj": {
+              "projectPath": "/Users/demoroom/Projects/orleans-core-base/interfaces/interfaces.csproj"
             },
-            "/Users/demoroom/Projects/orleans-test/grains/grains.csproj": {
-              "projectPath": "/Users/demoroom/Projects/orleans-test/grains/grains.csproj"
+            "/Users/demoroom/Projects/orleans-core-base/grains/grains.csproj": {
+              "projectPath": "/Users/demoroom/Projects/orleans-core-base/grains/grains.csproj"
             }
           }
         }

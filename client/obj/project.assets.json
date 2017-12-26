@@ -6116,17 +6116,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/demoroom/Projects/orleans-test/client/client.csproj",
+      "projectUniqueName": "/Users/demoroom/Projects/orleans-core-base/client/client.csproj",
       "projectName": "client",
-      "projectPath": "/Users/demoroom/Projects/orleans-test/client/client.csproj",
+      "projectPath": "/Users/demoroom/Projects/orleans-core-base/client/client.csproj",
       "packagesPath": "/Users/demoroom/.nuget/packages/",
-      "outputPath": "/Users/demoroom/Projects/orleans-test/client/obj/",
+      "outputPath": "/Users/demoroom/Projects/orleans-core-base/client/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/demoroom/Projects/orleans-test/NuGet.Config",
+        "/Users/demoroom/Projects/orleans-core-base/NuGet.Config",
         "/Users/demoroom/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
@@ -6139,8 +6139,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/Users/demoroom/Projects/orleans-test/interfaces/interfaces.csproj": {
-              "projectPath": "/Users/demoroom/Projects/orleans-test/interfaces/interfaces.csproj"
+            "/Users/demoroom/Projects/orleans-core-base/interfaces/interfaces.csproj": {
+              "projectPath": "/Users/demoroom/Projects/orleans-core-base/interfaces/interfaces.csproj"
             }
           }
         }
